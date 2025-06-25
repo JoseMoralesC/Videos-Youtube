@@ -1,4 +1,5 @@
 # Código para descargar videos de YouTube usando yt-dlp.
+# Asegúrate de tener instalado yt-dlp: pip install yt-dlp
 
 import yt_dlp as youtube_dl
 
